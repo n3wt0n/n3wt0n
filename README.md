@@ -72,7 +72,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#852](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/852) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+1. 💪 Opened PR [#6](https://github.com/n3wt0n/HKOSCon2020/pull/6) in [n3wt0n/HKOSCon2020](https://github.com/n3wt0n/HKOSCon2020)
 <!--END_SECTION:activity-->
 
 </details>
