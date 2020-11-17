@@ -58,11 +58,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Advanced Security from Azure DevOps?](https://dev.to/n3wt0n/github-advanced-security-from-azure-devops-3g80)
 - [Best Practices for Branch Protection](https://dev.to/n3wt0n/best-practices-for-branch-protection-2pe3)
 - [Change Azure Repos Default Branch](https://dev.to/n3wt0n/change-azure-repos-default-branch-29c0)
 - [3 ways to migrate from Visual Studio Codespaces to GitHub Codespaces](https://dev.to/n3wt0n/3-ways-to-migrate-from-visual-studio-codespaces-to-github-codespaces-f49)
 - [What is GitHub Code Scanning?](https://dev.to/n3wt0n/what-is-github-code-scanning-5gk5)
-- [What are the BENEFITS of DevOps?](https://dev.to/n3wt0n/what-are-the-benefits-of-devops-2fgb)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
