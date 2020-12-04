@@ -44,11 +44,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add Your GitHub Accounts to Visual Studio](https://www.youtube.com/watch?v=aHSwRVbD6rc)
 - [3 Steps to DRASTICALLY Improve Your Docker Build Performances](https://www.youtube.com/watch?v=9-dt5aMRzVU)
 - [Code Review in GitHub for Mobile is getting even BETTER](https://www.youtube.com/watch?v=FnUnYC_b8sE)
 - [Why .Net 5 is PERFECT for DevOps](https://www.youtube.com/watch?v=-2LcsiXLw88)
 - [Auto Updating GitHub Profile Page](https://www.youtube.com/watch?v=nFJkpV49p5I)
-- [Scan a GitHub Repository from Azure DevOps Pipeline using Advanced Security](https://www.youtube.com/watch?v=ZgR90vWpBQw)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
