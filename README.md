@@ -58,11 +58,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What are the top DevOps news of 2020 for you?](https://dev.to/n3wt0n/what-are-the-top-devops-news-of-2020-for-you-5ef3)
 - [.Net 5 is PERFECT for DevOps](https://dev.to/n3wt0n/net-5-is-perfect-for-devops-4afd)
 - [GitHub Advanced Security from Azure DevOps?](https://dev.to/n3wt0n/github-advanced-security-from-azure-devops-3g80)
 - [Best Practices for Branch Protection](https://dev.to/n3wt0n/best-practices-for-branch-protection-2pe3)
 - [Change Azure Repos Default Branch](https://dev.to/n3wt0n/change-azure-repos-default-branch-29c0)
-- [3 ways to migrate from Visual Studio Codespaces to GitHub Codespaces](https://dev.to/n3wt0n/3-ways-to-migrate-from-visual-studio-codespaces-to-github-codespaces-f49)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
