@@ -78,7 +78,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/n3wt0n/AzureWebAppSSLManager/pull/29) in [n3wt0n/AzureWebAppSSLManager](https://github.com/n3wt0n/AzureWebAppSSLManager)
+1. 🎉 Merged PR [#1](https://github.com/n3wt0n/ActionsTest/pull/1) in [n3wt0n/ActionsTest](https://github.com/n3wt0n/ActionsTest)
 <!--END_SECTION:activity-->
 
 </details>
