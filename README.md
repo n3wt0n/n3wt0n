@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions: Environments, Approvals and Visualization DEEP DIVE](https://dev.to/n3wt0n/github-actions-environments-approvals-and-visualization-deep-dive-5h10)
 - [CoderDave: 1000 Subscribers thanks to YOU!](https://dev.to/n3wt0n/coderdave-1000-subscribers-thanks-to-you-19ch)
 - [GitHub Universe 2020 Recap: ALL you NEED to know](https://dev.to/n3wt0n/github-universe-2020-recap-all-you-need-to-know-3img)
 - [FREE auto-renewing SSL Certificates for Azure!](https://dev.to/n3wt0n/free-auto-renewing-ssl-certificates-for-azure-5f7h)
 - [What are the top DevOps news of 2020 for you?](https://dev.to/n3wt0n/what-are-the-top-devops-news-of-2020-for-you-5ef3)
-- [.Net 5 is PERFECT for DevOps](https://dev.to/n3wt0n/net-5-is-perfect-for-devops-4afd)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
