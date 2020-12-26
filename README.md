@@ -59,7 +59,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DEPLOY with GitHub Actions! Approvals & Environments DEEP DIV](https://dev.to/n3wt0n/github-actions-environments-approvals-and-visualization-deep-dive-5h10)
+- [DEPLOY with GitHub Actions! Approvals & Environments DEEP DIVE](https://dev.to/n3wt0n/github-actions-environments-approvals-and-visualization-deep-dive-5h10)
 - [CoderDave: 1000 Subscribers thanks to YOU!](https://dev.to/n3wt0n/coderdave-1000-subscribers-thanks-to-you-19ch)
 - [GitHub Universe 2020 Recap: ALL you NEED to know](https://dev.to/n3wt0n/github-universe-2020-recap-all-you-need-to-know-3img)
 - [FREE auto-renewing SSL Certificates for Azure!](https://dev.to/n3wt0n/free-auto-renewing-ssl-certificates-for-azure-5f7h)
