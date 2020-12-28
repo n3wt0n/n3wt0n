@@ -45,11 +45,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Day in the Life of CoderDave - 1000 Subscribes Special](https://www.youtube.com/watch?v=5reLejN2z7Y)
 - [GitHub Actions: Approvals, Environments and Visualization DEEP DIVE](https://www.youtube.com/watch?v=w_37LDOy4sI)
 - [GitHub Discussions is Finally Available For EVERYONE](https://www.youtube.com/watch?v=e5PeAvzBWNI)
 - [GitHub Universe 2020: EVERYTHING You Should Know](https://www.youtube.com/watch?v=ZOkwHxJj1oI)
 - [The official GitHub Dark Mode is COOL!](https://www.youtube.com/watch?v=-MoCoijGRAY)
-- [Build .NET 5: GitHub Actions vs Azure Pipelines](https://www.youtube.com/watch?v=YHichwz_-oQ)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
