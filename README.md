@@ -45,11 +45,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 5 DevOps news of 2020 RECAP](https://www.youtube.com/watch?v=3cBF7I8ecMc)
 - [A Day in the Life of CoderDave - 1000 Subscribes Special](https://www.youtube.com/watch?v=5reLejN2z7Y)
 - [GitHub Actions: Approvals, Environments and Visualization DEEP DIVE](https://www.youtube.com/watch?v=w_37LDOy4sI)
 - [GitHub Discussions is Finally Available For EVERYONE](https://www.youtube.com/watch?v=e5PeAvzBWNI)
 - [GitHub Universe 2020: EVERYTHING You Should Know](https://www.youtube.com/watch?v=ZOkwHxJj1oI)
-- [The official GitHub Dark Mode is COOL!](https://www.youtube.com/watch?v=-MoCoijGRAY)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
