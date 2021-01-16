@@ -45,7 +45,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [All Hail the GitHub PR Auto Merge](https://www.youtube.com/watch?v=Igx8w95cakU)
+- [GitHub PR Auto Merge EXPLAINED](https://www.youtube.com/watch?v=Igx8w95cakU)
 - [DevOps for IoT? You SHOULD do it!](https://www.youtube.com/watch?v=LPNMlP165v4)
 - [Top 5 DevOps news of 2020 RECAP](https://www.youtube.com/watch?v=3cBF7I8ecMc)
 - [A Day in the Life of CoderDave - 1000 Subscribes Special](https://www.youtube.com/watch?v=5reLejN2z7Y)
