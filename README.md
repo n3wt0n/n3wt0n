@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub vs Azure DevOps - The Interview](https://dev.to/n3wt0n/github-vs-azure-devops-the-interview-4pkk)
 - [GitHub Pull Request Auto-Merge EXPLAINED](https://dev.to/n3wt0n/github-pull-request-auto-merge-explained-586o)
 - [DevOps and IoT: Better TOGETHER!](https://dev.to/n3wt0n/devops-and-iot-better-together-pd8)
 - [EVERYTHING you NEED to know about GitHub Actions Environments](https://dev.to/n3wt0n/everything-you-need-to-know-about-github-actions-environments-9p7)
 - [Top DevOps News of 2020 RECAP](https://dev.to/n3wt0n/top-devops-news-of-2020-recap-2a0p)
-- [CoderDave: 1000 Subscribers thanks to YOU!](https://dev.to/n3wt0n/coderdave-1000-subscribers-thanks-to-you-19ch)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
