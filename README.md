@@ -59,8 +59,8 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub or Azure DevOps? The Interview](https://dev.to/n3wt0n/github-or-azure-devops-the-interview-1ni0)
 - [Azure Pipelines YAML Templates Demystified](https://dev.to/n3wt0n/azure-pipeines-yaml-template-demystified-9c6)
-- [GitHub vs Azure DevOps - The Interview](https://dev.to/n3wt0n/github-vs-azure-devops-the-interview-4pkk)
 - [GitHub Pull Request Auto-Merge EXPLAINED](https://dev.to/n3wt0n/github-pull-request-auto-merge-explained-586o)
 - [DevOps and IoT: Better TOGETHER!](https://dev.to/n3wt0n/devops-and-iot-better-together-pd8)
 - [EVERYTHING you NEED to know about GitHub Actions Environments](https://dev.to/n3wt0n/everything-you-need-to-know-about-github-actions-environments-9p7)
