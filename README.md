@@ -45,11 +45,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [No More Network Headaches: Azure DevOps Service Tags](https://www.youtube.com/watch?v=NfiaVxHFtyU)
 - [GitHub and Azure DevOps integration for better DevOps](https://www.youtube.com/watch?v=CNKYUEhEuUg)
 - [Much BETTER! Azure Repos New PR Experience](https://www.youtube.com/watch?v=gKiXPySv-aM)
 - [Templates in Azure Pipelines: What, Why, and How](https://www.youtube.com/watch?v=UQlRITs7veM)
 - [GitHub PR Auto Merge EXPLAINED](https://www.youtube.com/watch?v=Igx8w95cakU)
-- [DevOps for IoT? You SHOULD do it!](https://www.youtube.com/watch?v=LPNMlP165v4)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
