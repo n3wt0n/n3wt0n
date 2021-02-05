@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Classic to YAML - New Export Azure Pipelines feature](https://dev.to/n3wt0n/classic-to-yaml-new-export-azure-pipelines-feature-26ca)
 - [Docker & Azure Pipelines: Better Together!](https://dev.to/n3wt0n/run-azure-pipelines-in-docker-flexible-scalable-cicd-2g63)
 - [GitHub or Azure DevOps? The Interview](https://dev.to/n3wt0n/github-or-azure-devops-the-interview-1ni0)
 - [Azure Pipelines YAML Templates Demystified](https://dev.to/n3wt0n/azure-pipeines-yaml-template-demystified-9c6)
 - [GitHub Pull Request Auto-Merge EXPLAINED](https://dev.to/n3wt0n/github-pull-request-auto-merge-explained-586o)
-- [DevOps and IoT: Better TOGETHER!](https://dev.to/n3wt0n/devops-and-iot-better-together-pd8)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
