@@ -45,11 +45,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Your Application in AKS in 5 minutes or less](https://www.youtube.com/watch?v=B0bIiG_JLZc)
 - [How To Use GitHub with Visual Studio Code](https://www.youtube.com/watch?v=aUhl3B6ZweQ)
 - [The Best Online Collaboration Tool? | Miro](https://www.youtube.com/watch?v=awkE68y9DQk)
 - [Azure Pipelines Export to YAML. Finally!](https://www.youtube.com/watch?v=PD0JHHw0Or4)
 - [Run Azure Pipelines in Docker - Flexible Scalable CICD](https://www.youtube.com/watch?v=rO-VKProMp8)
-- [No More Network Headaches: Azure DevOps Service Tags](https://www.youtube.com/watch?v=NfiaVxHFtyU)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
