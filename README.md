@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deal with SECURITY Issues - a DevOps Perspective](https://dev.to/n3wt0n/how-to-deal-with-security-issues-a-devops-perspective-3fi7)
 - [Deploy to Kubernetes in less than 5 minutes!](https://dev.to/n3wt0n/deploy-to-kubernetes-in-less-than-5-minutes-52k9)
 - [How To Use GitHub with Visual Studio Code](https://dev.to/n3wt0n/how-to-use-github-with-visual-studio-code-1p7d)
 - [The Best Online Collaboration Tool? | Miro](https://dev.to/n3wt0n/the-best-online-collaboration-tool-miro-1mog)
 - [Convert Azure Pipelines to YAML in 1 click!](https://dev.to/n3wt0n/classic-to-yaml-new-export-azure-pipelines-feature-26ca)
-- [Docker & Azure Pipelines: Better Together!](https://dev.to/n3wt0n/run-azure-pipelines-in-docker-flexible-scalable-cicd-2g63)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
