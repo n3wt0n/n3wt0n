@@ -45,11 +45,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 Things You Don't Know About GitHub #shorts](https://www.youtube.com/watch?v=d2h1KDPKGE8)
 - [Inner Source Model EXPLAINED](https://www.youtube.com/watch?v=tfPhkZ87bEY)
 - [Is GitHub Safe to Use? - with Anthony Borton](https://www.youtube.com/watch?v=vAfBW1_AZkU)
 - [How to Review a Pull Request in GitHub the RIGHT Way](https://www.youtube.com/watch?v=lSnbOtw4izI)
 - [GitHub Actions for Azure Resource Manager | ARM deployment](https://www.youtube.com/watch?v=3dhTbyfW7Zc)
-- [How to Deal with SECURITY Issues: a DevOps Perspective](https://www.youtube.com/watch?v=_COrbeZMF1k)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
