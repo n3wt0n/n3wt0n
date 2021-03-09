@@ -78,7 +78,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/n3wt0n/Crypto/pull/4) in [n3wt0n/Crypto](https://github.com/n3wt0n/Crypto)
+1. ❗️ Opened issue [#2](https://github.com/n3wt0n/ARMExamples/issues/2) in [n3wt0n/ARMExamples](https://github.com/n3wt0n/ARMExamples)
 <!--END_SECTION:activity-->
 
 </details>
