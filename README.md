@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wanna talk about DevOps, GitHub and Azure DevOps?](https://dev.to/n3wt0n/wanna-talk-about-devops-github-and-azure-devops-5bip)
 - [Trigger Azure Pipelines with GitHub Packages](https://dev.to/n3wt0n/trigger-azure-pipelines-with-github-packages-129g)
 - [The Podcast is LIVE!](https://dev.to/n3wt0n/the-podcast-is-live-1gib)
 - [What is Inner Source?](https://dev.to/n3wt0n/inner-source-model-explained-321e)
 - [Solve SECURITY Issues - a DevOps Perspective](https://dev.to/n3wt0n/how-to-deal-with-security-issues-a-devops-perspective-3fi7)
-- [Deploy to Kubernetes in less than 5 minutes!](https://dev.to/n3wt0n/deploy-to-kubernetes-in-less-than-5-minutes-52k9)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
