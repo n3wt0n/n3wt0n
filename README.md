@@ -78,7 +78,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/n3wt0n/ARMExamples/issues/2) in [n3wt0n/ARMExamples](https://github.com/n3wt0n/ARMExamples)
+1. ❗️ Opened issue [#8](https://github.com/n3wt0n/GitHubSecrets/issues/8) in [n3wt0n/GitHubSecrets](https://github.com/n3wt0n/GitHubSecrets)
 <!--END_SECTION:activity-->
 
 </details>
