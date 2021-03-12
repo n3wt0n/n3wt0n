@@ -45,11 +45,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Create a Personal Access Token in GitHub](https://www.youtube.com/watch?v=SzrETQdGzBM)
 - [How to Trigger Azure Pipelines for a GitHub Package](https://www.youtube.com/watch?v=99g1QA_74Z0)
 - [3 Things You Don't Know About GitHub #shorts](https://www.youtube.com/watch?v=d2h1KDPKGE8)
 - [Inner Source Model EXPLAINED](https://www.youtube.com/watch?v=tfPhkZ87bEY)
 - [Is GitHub Safe to Use? - with Anthony Borton](https://www.youtube.com/watch?v=vAfBW1_AZkU)
-- [How to Review a Pull Request in GitHub the RIGHT Way](https://www.youtube.com/watch?v=lSnbOtw4izI)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
