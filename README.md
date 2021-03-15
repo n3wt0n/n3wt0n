@@ -6,7 +6,7 @@
 
 ## I'm a DevOps Architect, a Software Engineer, a Speaker, and a YouTuber!
 
-I have been working with .NET since its first introduction. Currently I work as __DevOps Architect at Microsoft + Github__, and I've bee I'm founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I used to be a Microsoft MVP in 2015, 2016 and 2017.
+I have been working with .NET since its first introduction. Currently I work as __DevOps Architect at Microsoft + Github__, I'm the founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I used to be a Microsoft MVP in 2015, 2016 and 2017.
 
 I publish a lot of __technical videos about DevOps, GitHub and Azure DevOps__ on my [YouTube Channel: CoderDave](https://youtube.com/CoderDave)
 
