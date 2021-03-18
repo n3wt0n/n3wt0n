@@ -48,11 +48,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Automate GitHub: the NEW Autolink Feature - Link Jira, Zendesk, and more](https://www.youtube.com/watch?v=ZoXiA_WyNzc)
 - [You Can Make Money with GitHub! Step by Step Guide](https://www.youtube.com/watch?v=VursLz2IpnY)
 - [How to Create a Personal Access Token in GitHub](https://www.youtube.com/watch?v=SzrETQdGzBM)
 - [How to Trigger Azure Pipelines for a GitHub Package](https://www.youtube.com/watch?v=99g1QA_74Z0)
 - [3 Things You Don't Know About GitHub #shorts](https://www.youtube.com/watch?v=d2h1KDPKGE8)
-- [Inner Source Model EXPLAINED](https://www.youtube.com/watch?v=tfPhkZ87bEY)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
