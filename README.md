@@ -62,11 +62,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚨Need Help With DevOps?](https://dev.to/n3wt0n/need-help-with-devops-47di)
 - [Add magic links to GitHub: Jira, Zendesk and more](https://dev.to/n3wt0n/add-magic-links-to-github-jira-zendesk-and-more-3g17)
 - [Make Money with GitHub: a step by step guide](https://dev.to/n3wt0n/make-money-with-github-a-step-by-step-guide-12ob)
 - [Is GitHub Safe to Use?](https://dev.to/n3wt0n/is-github-safe-to-use-lci)
 - [How to create a Personal Access Token](https://dev.to/n3wt0n/how-to-create-a-personal-access-token-pg7)
-- [Wanna talk about DevOps, GitHub and Azure DevOps?](https://dev.to/n3wt0n/wanna-talk-about-devops-github-and-azure-devops-5bip)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
