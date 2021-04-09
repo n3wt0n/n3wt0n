@@ -2,7 +2,7 @@
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@CoderDave-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/CoderDave?sub_confirmation=1) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/davidebenvegnu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidebenvegnu&screen_name=n3wt0n)
-[![Sponsor](https://img.shields.io/badge/Sponsor%20n3wt0n-%F0%9F%92%96-pink?style=for-the-badge)](https://github.com/sponsors/n3wt0n?o=esb)
+[![Sponsor](https://img.shields.io/badge/Sponsor%20n3wt0n-%F0%9F%92%96-pink?style=for-the-badge)][githubsponsor]
 
 ## I'm a DevOps Architect, a Software Engineer, a Speaker, and a YouTuber!
 
@@ -25,8 +25,9 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 
 ### Support me:
 [<img align="left" alt="Patreon" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/patreon.svg" />][patreon]
-[<img align="left" alt="Patreon" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/buymeacoffee.svg" />][buymeacoffee]
+[<img align="left" alt="Buy Me a Coffee" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/buymeacoffee.svg" />][buymeacoffee]
 [<img align="left" alt="PayPal" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/paypal.svg" />][paypal]
+[<img align="left" alt="GitHub Sponsor" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/github-mona.svg" />][githubsponsor]
 <br />
 
 ### Languages and Tools:
@@ -101,6 +102,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 [patreon]: https://patreon.com/CoderDave
 [paypal]: https://paypal.me/dabenveg
 [buymeacoffee]: https://buymeacoffee.com/CoderDave
+[githubsponsor]: https://github.com/sponsors/n3wt0n?o=esb
 
 <!--
 **n3wt0n/n3wt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
