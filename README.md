@@ -55,10 +55,10 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 
 <!-- YOUTUBE:START -->
 - [Introducing the GitHub Security Overview for Organizations and Teams | GitHub Security Center](https://www.youtube.com/watch?v=ChDykZU5M9s)
+- [The EASIEST Way to Lint Your Code: GitHub Super Linter DEEP DIVE](https://www.youtube.com/watch?v=BCrtoZ04L1Y)
 - [Let's Build a GitHub Project Using Actions - LIVE CI\CD with GitHub From Scratch](https://www.youtube.com/watch?v=br48WIwhk2o)
 - [How to Create a Personal Access Token in Azure DevOps](https://www.youtube.com/watch?v=o1rrrVKzc-o)
 - [What is a Linter and Why You Should Use One | Linters EXPLAINED](https://www.youtube.com/watch?v=HDQXWr5TOnI)
-- [Automate GitHub: the NEW Autolink Feature - Link Jira, Zendesk, and more](https://www.youtube.com/watch?v=ZoXiA_WyNzc)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
