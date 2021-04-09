@@ -21,6 +21,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
 [<img align="left" alt="YouTube Personal" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube-personal]
 [<img align="left" alt="YouTube Beyond Cameras" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube-cameras]
+[<img align="left" alt="Podcast" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/podcast.svg" />][podcast]
 <br />
 
 ### Support me:
@@ -103,6 +104,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 [paypal]: https://paypal.me/dabenveg
 [buymeacoffee]: https://buymeacoffee.com/CoderDave
 [githubsponsor]: https://github.com/sponsors/n3wt0n?o=esb
+[podcast]: https://geni.us/cdpodcast
 
 <!--
 **n3wt0n/n3wt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
