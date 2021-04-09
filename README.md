@@ -68,11 +68,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Linter and Why You Should Use One | Linters EXPLAINED](https://dev.to/n3wt0n/what-is-a-linter-and-why-you-should-use-one-linters-explained-hbc)
 - [Introducing the GitHub Security Overview | GitHub Security Center](https://dev.to/n3wt0n/introducing-the-github-security-overview-github-security-center-56dm)
 - [How to create a Personal Access Token - Azure DevOps](https://dev.to/n3wt0n/how-to-create-a-personal-access-token-azure-devops-2fm7)
 - [Add magic links to GitHub: Jira, Zendesk and more](https://dev.to/n3wt0n/add-magic-links-to-github-jira-zendesk-and-more-3g17)
 - [Make Money with GitHub: a step by step guide](https://dev.to/n3wt0n/make-money-with-github-a-step-by-step-guide-12ob)
-- [Is GitHub Safe to Use?](https://dev.to/n3wt0n/is-github-safe-to-use-lci)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
