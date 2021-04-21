@@ -87,7 +87,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/n3wt0n/AzureWebAppSSLManager/pull/37) in [n3wt0n/AzureWebAppSSLManager](https://github.com/n3wt0n/AzureWebAppSSLManager)
+1. 🎉 Merged PR [#2](https://github.com/n3wt0n/hello-github-actions/pull/2) in [n3wt0n/hello-github-actions](https://github.com/n3wt0n/hello-github-actions)
 <!--END_SECTION:activity-->
 
 </details>
