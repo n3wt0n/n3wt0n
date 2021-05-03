@@ -68,11 +68,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn DevOps Better and Faster!](https://dev.to/n3wt0n/learn-devops-better-and-faster-3ake)
 - [How Secrets Work in GitHub and How to Manage Them](https://dev.to/n3wt0n/how-secrets-work-in-github-and-how-to-manage-them-p4o)
 - [Learn GitHub Quickly with GitHub Learning Lab](https://dev.to/n3wt0n/learn-github-quickly-with-github-learning-lab-1klc)
 - [Nasa Open Source Goes to Mars | GitHub and the Ingenuity Helicopter](https://dev.to/n3wt0n/nasa-open-source-goes-to-mars-github-and-the-ingenuity-helicopter-4aph)
 - [Secure Your Azure DevOps Organization NOW!](https://dev.to/n3wt0n/secure-your-azure-devops-organization-now-42l2)
-- [Fix Open Source Vulnerabilities AUTOMATICALLY with Dependabot](https://dev.to/n3wt0n/fix-open-source-vulnerability-automatically-with-dependabot-4igm)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
