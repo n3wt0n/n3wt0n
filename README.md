@@ -55,10 +55,10 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 
 <!-- YOUTUBE:START -->
 - [Manage Secrets in GitHub | GitHub Repository Secrets vs Environment Secrets](https://www.youtube.com/watch?v=tXv_npAP90k)
-- [IMPROVE Your DevOps Skills Using the Zone of Proximal Development (ft Sid Palas)](https://www.youtube.com/watch?v=RlhlE3WcpVU)
 - [Learn GitHub Quickly with GitHub Learning Lab](https://www.youtube.com/watch?v=HCHvMngWEbY)
 - [Nasa Open Source Goes to Mars | GitHub and the Ingenuity Helicopter](https://www.youtube.com/watch?v=bEJSwQ6yc3w)
 - [Secure Your Azure DevOps Organization | Best Practices for Azure DevOps Security](https://www.youtube.com/watch?v=nrYSu_046cw)
+- [Fix Open Source Vulnerability AUTOMATICALLY with Dependabot | Dependabot Introduction](https://www.youtube.com/watch?v=ijPoIfQWypQ)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
