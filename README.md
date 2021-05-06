@@ -87,7 +87,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/n3wt0n/hello-github-actions/pull/2) in [n3wt0n/hello-github-actions](https://github.com/n3wt0n/hello-github-actions)
+1. ❗️ Closed issue [#6](https://github.com/n3wt0n/ActionsTest/issues/6) in [n3wt0n/ActionsTest](https://github.com/n3wt0n/ActionsTest)
 <!--END_SECTION:activity-->
 
 </details>
