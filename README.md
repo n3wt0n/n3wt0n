@@ -68,11 +68,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shift Left on Security: EXPLAINED Easily](https://dev.to/n3wt0n/shift-left-on-security-explained-easily-16e5)
 - [SECURE Your Code From the Start with Snyk.io and Snyk Code](https://dev.to/n3wt0n/secure-your-code-from-the-start-with-snyk-io-and-snyk-code-2oj7)
 - [GitHub Community: your place to learn, discuss, and ask questions](https://dev.to/n3wt0n/github-community-your-place-to-learn-discuss-and-ask-questions-ma8)
 - [Infrastructure as Code in 3 minutes](https://dev.to/n3wt0n/infrastructure-as-code-in-3-minutes-4h1h)
 - [Learn DevOps Better and Faster!](https://dev.to/n3wt0n/learn-devops-better-and-faster-3ake)
-- [How Secrets Work in GitHub and How to Manage Them](https://dev.to/n3wt0n/how-secrets-work-in-github-and-how-to-manage-them-p4o)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
