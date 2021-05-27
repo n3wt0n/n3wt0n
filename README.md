@@ -54,11 +54,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Upload a Video on GitHub: Issue, PR and Discussion | GitHub Video Support](https://www.youtube.com/watch?v=h6fOErvWIGI)
 - [Ask Me Anything: LIVE Q&A about GitHub, DevOps, Azure DevOps | 2000 Subscribers Special](https://www.youtube.com/watch?v=ICP3hHCEcUI)
 - [Shift Left on Security: Meaning and Real World Usage | 3 minutes Friday](https://www.youtube.com/watch?v=94AIX5oArIw)
 - [SECURE Your Code From the Start With Snyk.io and Snyk Code](https://www.youtube.com/watch?v=hXiJJUTiLEw)
 - [GitHub Community: Find Help, Support and Ideas About GitHub (ft Mickey Gousset)](https://www.youtube.com/watch?v=8SS6I63LCW0)
-- [Introduction to Infrastructure as Code (IaC) in 3 Minutes](https://www.youtube.com/watch?v=fE4gY-SydKo)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
