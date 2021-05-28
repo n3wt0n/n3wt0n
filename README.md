@@ -54,11 +54,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Dependabot for Azure DevOps: Automated Vulnerability Scanning (Build LIVE with Me)](https://www.youtube.com/watch?v=4ELai1FivK4)
 - [How to Upload a Video on GitHub: Issue, PR and Discussion | GitHub Video Support](https://www.youtube.com/watch?v=h6fOErvWIGI)
 - [Ask Me Anything: LIVE Q&A about GitHub, DevOps, Azure DevOps | 2000 Subscribers Special](https://www.youtube.com/watch?v=ICP3hHCEcUI)
 - [Shift Left on Security: Meaning and Real World Usage | 3 minutes Friday](https://www.youtube.com/watch?v=94AIX5oArIw)
 - [SECURE Your Code From the Start With Snyk.io and Snyk Code](https://www.youtube.com/watch?v=hXiJJUTiLEw)
-- [GitHub Community: Find Help, Support and Ideas About GitHub (ft Mickey Gousset)](https://www.youtube.com/watch?v=8SS6I63LCW0)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
