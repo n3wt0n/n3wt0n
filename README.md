@@ -17,7 +17,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="CoderDave.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cdwebsite]
 [<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube]
-[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/discord.svg" />][discord]
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/discord.svg" />][discord]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
