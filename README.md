@@ -15,7 +15,9 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### Connect with me:
 
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="CoderDave.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cdwebsite]
 [<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube]
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/discord.svg" />][discord]
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
@@ -93,6 +95,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 </details>
 
 [website]: https://www.davidebenvegnu.com
+[cdwebsite]: https://coderdave.io
 [blog]: https://dev.to/n3wt0n
 [twitter]: https://twitter.com/davidebenvegnu
 [youtube]: https://www.youtube.com/CoderDave
@@ -105,6 +108,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 [buymeacoffee]: https://buymeacoffee.com/CoderDave
 [githubsponsor]: https://github.com/sponsors/n3wt0n?o=esb
 [podcast]: https://geni.us/cdpodcast
+[discord]: https://discord.gg/sJFmYC9TXb
 
 <!--
 **n3wt0n/n3wt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
