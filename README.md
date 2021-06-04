@@ -70,11 +70,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Export GitHub Issues, Commit History and More | GitHub Artifact Exporter](https://dev.to/n3wt0n/export-github-issues-commit-history-and-more-github-artifact-exporter-2ok6)
 - [Dependabot for Azure DevOps: Automated Vulnerability Scanning](https://dev.to/n3wt0n/dependabot-for-azure-devops-automated-vulnerability-scanning-235i)
 - [Upload videos on GitHub (now GA!)](https://dev.to/n3wt0n/upload-videos-on-github-now-ga-2en0)
 - [Live Q&A on DevOps, GitHub and Azure DevOps](https://dev.to/n3wt0n/live-q-a-on-devops-github-and-azure-devops-o5h)
 - [Shift Left on Security: EXPLAINED Easily](https://dev.to/n3wt0n/shift-left-on-security-explained-easily-16e5)
-- [SECURE Your Code From the Start with Snyk.io and Snyk Code](https://dev.to/n3wt0n/secure-your-code-from-the-start-with-snyk-io-and-snyk-code-2oj7)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
