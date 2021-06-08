@@ -71,7 +71,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 
 <!-- BLOG-POST-LIST:START -->
 - [Link Work Items to Deployments in Azure DevOps Release Pipelines: ALL you NEED to know](https://dev.to/n3wt0n/link-work-items-to-deployments-in-azure-devops-release-pipelines-all-you-need-to-know-5720)
-- [Export GitHub Issues, Commit History and More | GitHub Artifact Exporter](https://dev.to/n3wt0n/export-github-issues-commit-history-and-more-github-artifact-exporter-2ok6)
+- [Export GitHub Issues, Commit History and More | GitHub Artifact Exporter](https://dev.to/github/export-github-issues-commit-history-and-more-github-artifact-exporter-2ok6)
 - [Dependabot for Azure DevOps: Automated Vulnerability Scanning](https://dev.to/n3wt0n/dependabot-for-azure-devops-automated-vulnerability-scanning-235i)
 - [Upload videos on GitHub (now GA!)](https://dev.to/n3wt0n/upload-videos-on-github-now-ga-2en0)
 - [Live Q&A on DevOps, GitHub and Azure DevOps](https://dev.to/n3wt0n/live-q-a-on-devops-github-and-azure-devops-o5h)
