@@ -56,11 +56,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GitHub Container Registry: BETTER Than Docker Hub?](https://www.youtube.com/watch?v=WjzA9dfk5w4)
 - [Link Work Items to Deployments in Azure DevOps Release Pipelines: ALL you NEED to know](https://www.youtube.com/watch?v=EHbPpQNoBvI)
 - [Export GitHub Issues, Commit History and More | GitHub Artifact Exporter](https://www.youtube.com/watch?v=xYIJLQB1YF4)
 - [Dependabot for Azure DevOps: Automated Vulnerability Scanning (Build LIVE with Me)](https://www.youtube.com/watch?v=4ELai1FivK4)
 - [How to Upload a Video on GitHub: Issue, PR and Discussion | GitHub Video Support](https://www.youtube.com/watch?v=h6fOErvWIGI)
-- [Ask Me Anything: LIVE Q&A about GitHub, DevOps, Azure DevOps | 2000 Subscribers Special](https://www.youtube.com/watch?v=ICP3hHCEcUI)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
