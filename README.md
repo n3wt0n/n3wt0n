@@ -89,7 +89,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/n3wt0n/GitHubSecrets/issues/9) in [n3wt0n/GitHubSecrets](https://github.com/n3wt0n/GitHubSecrets)
+1. ❗️ Opened issue [#12](https://github.com/n3wt0n/GitHubSecrets/issues/12) in [n3wt0n/GitHubSecrets](https://github.com/n3wt0n/GitHubSecrets)
 <!--END_SECTION:activity-->
 
 </details>
