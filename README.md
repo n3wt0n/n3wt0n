@@ -70,11 +70,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The NEW GitHub Issues and Boards are HERE and they are COOL!](https://dev.to/github/the-new-github-issues-and-boards-are-here-and-they-are-cool-31je)
 - [Full GitHub Actions Course [FREE] 💥📽️🚀](https://dev.to/n3wt0n/full-github-actions-course-free-p5g)
 - [How to Disable a Repository in Azure DevOps (Azure Repos)](https://dev.to/n3wt0n/how-to-disable-a-repository-in-azure-devops-azure-repos-3i65)
 - [Crypto Mining is Killing All Free CI/CD Platforms](https://dev.to/n3wt0n/crypto-mining-is-killing-all-free-ci-cd-platforms-4chc)
 - [GitHub Container Registry: BETTER than Docker Hub?](https://dev.to/github/github-container-registry-better-than-docker-hub-1o9k)
-- [Link Work Items to Deployments in Azure DevOps Release Pipelines: ALL you NEED to know](https://dev.to/n3wt0n/link-work-items-to-deployments-in-azure-devops-release-pipelines-all-you-need-to-know-5720)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
