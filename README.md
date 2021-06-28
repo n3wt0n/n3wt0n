@@ -56,11 +56,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is a DevOps Architect? The DevOps Architect Role explained (ft Mickey Gousset)](https://www.youtube.com/watch?v=TF9EIS9vxnM)
 - [Introducing the NEW GitHub Issues: Table View, Issues Forms, Task Lists](https://www.youtube.com/watch?v=MvyGcLg6AvI)
 - [GitHub Actions Tutorial | From Zero to Hero in 90 minutes (Environments, Secrets, Runners, etc)](https://www.youtube.com/watch?v=TLB5MY9BBa4)
 - [How to Disable a Repository in Azure DevOps (Azure Repos)](https://www.youtube.com/watch?v=G_um1mm7LiM)
 - [Crypto Mining is Killing All Free CI/CD Platforms](https://www.youtube.com/watch?v=9TOJqJSHVvI)
-- [Event Presentations From Home? This is How it's Done #shorts](https://www.youtube.com/watch?v=nLG7hZ3K998)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
