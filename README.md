@@ -70,11 +70,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a DevOps Architect? The DevOps Roles explained (ft Mickey Gousset)](https://dev.to/n3wt0n/what-is-a-devops-architect-the-devops-roles-explained-ft-mickey-gousset-39f1)
 - [The NEW Manual Validation Task for Azure DevOps YAML Pipelines Demystified](https://dev.to/n3wt0n/the-new-manual-validation-task-for-azure-devops-yaml-pipelines-demystified-385c)
 - [EVERYTHING About the Azure Pipelines Scale Set Agents (VMSS)](https://dev.to/n3wt0n/everything-about-the-azure-pipelines-scale-set-agents-vmss-cp2)
 - [The NEW GitHub Issues and Boards are HERE and they are COOL!](https://dev.to/github/the-new-github-issues-and-boards-are-here-and-they-are-cool-31je)
 - [Full GitHub Actions Course [FREE] 💥📽️🚀](https://dev.to/n3wt0n/full-github-actions-course-free-p5g)
-- [How to Disable a Repository in Azure DevOps (Azure Repos)](https://dev.to/n3wt0n/how-to-disable-a-repository-in-azure-devops-azure-repos-3i65)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
