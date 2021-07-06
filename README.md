@@ -89,7 +89,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/n3wt0n/GitHubSecrets/issues/15) in [n3wt0n/GitHubSecrets](https://github.com/n3wt0n/GitHubSecrets)
+1. 🎉 Merged PR [#10](https://github.com/n3wt0n/SmartHotel360-Website/pull/10) in [n3wt0n/SmartHotel360-Website](https://github.com/n3wt0n/SmartHotel360-Website)
 <!--END_SECTION:activity-->
 
 </details>
