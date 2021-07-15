@@ -56,11 +56,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Birthday Special: Ask Me Anything about GitHub, DevOps, Azure DevOps (Q&A)](https://www.youtube.com/watch?v=a9cpkf7ZMeA)
 - [GitHub Actions: GITHUB_TOKEN Explained | How it works, Change Permissions, Customizations](https://www.youtube.com/watch?v=jEK07KPEjnY)
 - [What is a DevOps Architect? The DevOps Architect Role explained (ft Mickey Gousset)](https://www.youtube.com/watch?v=TF9EIS9vxnM)
 - [The NEW Manual Validation Task for Azure DevOps YAML Pipelines Demystified](https://www.youtube.com/watch?v=sfb3d100JPo)
 - [EVERYTHING About the Scale Set Agents for Azure Pipelines (VMSS)](https://www.youtube.com/watch?v=3oILIG4i71g)
-- [Introducing the NEW GitHub Issues: Table View, Issues Forms, Task Lists](https://www.youtube.com/watch?v=MvyGcLg6AvI)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
