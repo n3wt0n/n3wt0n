@@ -2,6 +2,7 @@
 
 [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@CoderDave-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/CoderDave?sub_confirmation=1) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/davidebenvegnu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavidebenvegnu&screen_name=n3wt0n)
+[![Discord](https://img.shields.io/discord/819034800773267467?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]
 [![Sponsor](https://img.shields.io/badge/Sponsor%20n3wt0n-%F0%9F%92%96-pink?style=for-the-badge)][githubsponsor]
 
 ## I'm a DevOps Architect, a Software Engineer, a Speaker, and a YouTuber!
@@ -47,6 +48,8 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
 
 <br />
 <br />
