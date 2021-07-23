@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure your GitHub Personal Access Tokens with an Expiration Date](https://dev.to/github/secure-your-github-personal-access-tokens-with-an-expiration-date-5cl)
 - [CI/CD Explained in 6 minutes](https://dev.to/n3wt0n/ci-cd-explained-in-6-minutes-6ah)
 - [It's my Birthday! Ask Me Anything about GitHub, DevOps, Azure DevOps (Live Q&A)](https://dev.to/n3wt0n/it-s-my-birthday-ask-me-anything-about-github-devops-azure-devops-live-q-a-29df)
 - [The GITHUB_TOKEN in GitHub Actions: How it Works, Change Permissions, Customizations](https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp)
 - [What is a DevOps Architect? The DevOps Roles explained (ft Mickey Gousset)](https://dev.to/n3wt0n/what-is-a-devops-architect-the-devops-roles-explained-ft-mickey-gousset-39f1)
-- [The NEW Manual Validation Task for Azure DevOps YAML Pipelines Demystified](https://dev.to/n3wt0n/the-new-manual-validation-task-for-azure-devops-yaml-pipelines-demystified-385c)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
