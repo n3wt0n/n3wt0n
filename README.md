@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Deploy to Azure Kubernetes (AKS) from Azure DevOps with Azure Pipelines | Build LIVE with Me](https://www.youtube.com/watch?v=4Oa5HneTuKs)
 - [10 DevOps MYTHS Debunked | Busting Some Myths and Legends About DevOps](https://www.youtube.com/watch?v=OsnWo4j4zIo)
 - [Add an Expiration Date to your GitHub Personal Access Tokens (PAT)](https://www.youtube.com/watch?v=f7t7cJp2v00)
 - [What is CI/CD? Introduction to CI/CD in 6 Minutes](https://www.youtube.com/watch?v=OSzrpgogQOM)
 - [Birthday Special: Ask Me Anything about GitHub, DevOps, Azure DevOps (Q&A)](https://www.youtube.com/watch?v=a9cpkf7ZMeA)
-- [GitHub Actions: GITHUB_TOKEN Explained | How it works, Change Permissions, Customizations](https://www.youtube.com/watch?v=jEK07KPEjnY)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
