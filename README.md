@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy to Azure Kubernetes (AKS) from Azure DevOps with Azure Pipelines](https://dev.to/n3wt0n/deploy-to-azure-kubernetes-aks-from-azure-devops-with-azure-pipelines-37b2)
 - [Azure DevOps: Limit User Visibility and Collaboration to Specific Projects](https://dev.to/n3wt0n/azure-devops-limit-user-visibility-and-collaboration-to-specific-projects-2mgg)
 - [10 DevOps Myths - BUSTED!](https://dev.to/n3wt0n/10-devops-myths-busted-30pa)
 - [Secure your GitHub Personal Access Tokens with an Expiration Date](https://dev.to/github/secure-your-github-personal-access-tokens-with-an-expiration-date-5cl)
 - [CI/CD Explained in 6 minutes](https://dev.to/n3wt0n/ci-cd-explained-in-6-minutes-6ah)
-- [It's my Birthday! Ask Me Anything about GitHub, DevOps, Azure DevOps (Live Q&A)](https://dev.to/n3wt0n/it-s-my-birthday-ask-me-anything-about-github-devops-azure-devops-live-q-a-29df)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
