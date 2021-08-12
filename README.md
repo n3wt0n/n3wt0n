@@ -59,7 +59,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [In Memory of Abel Wang | Tribute to a Wonderful Human Being](https://www.youtube.com/watch?v=Ortp-e5T_8Q)
+- [Remote Work - Expectation vs Reality #SHORTS](https://www.youtube.com/watch?v=yONYlYArIvI)
 - [3 Tips to be SUCCESSFUL in Your DevOps Role | DevOps Career Growth](https://www.youtube.com/watch?v=A-NeIPCLSRU)
 - [Deploy to Azure Kubernetes (AKS) from Azure DevOps with Azure Pipelines | Build LIVE with Me](https://www.youtube.com/watch?v=4Oa5HneTuKs)
 - [Azure DevOps: Limit User Visibility and Collaboration to Specific Projects](https://www.youtube.com/watch?v=yftHyHW32fM)
