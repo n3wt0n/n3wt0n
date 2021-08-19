@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How YOU can Enable GitHub Codespaces #SHORTS](https://www.youtube.com/watch?v=LluZkqPrN5I)
 - [GitHub Codespaces GA: Cloud Development Environment for Node.js, Docker, .NET Core, Python, etc](https://www.youtube.com/watch?v=Car0QZ_YbxQ)
 - [How to solve the "No usable version of the libssl was found" in GitHub Actions and Azure Pipelines](https://www.youtube.com/watch?v=EbEzgxLi8YY)
 - [Remote Work - Expectation vs Reality #SHORTS](https://www.youtube.com/watch?v=yONYlYArIvI)
 - [3 Tips to be SUCCESSFUL in Your DevOps Role | DevOps Career Growth](https://www.youtube.com/watch?v=A-NeIPCLSRU)
-- [Deploy to Azure Kubernetes (AKS) from Azure DevOps with Azure Pipelines | Build LIVE with Me](https://www.youtube.com/watch?v=4Oa5HneTuKs)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
