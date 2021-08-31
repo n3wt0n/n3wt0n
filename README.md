@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GitHub Copilot on Codespaces on an iPad + GitHub Codespaces Q&A](https://www.youtube.com/watch?v=ELBJjwpUn1s)
 - [Welcome GitHub Free Web-based Code Editor: it is AWESOME!](https://www.youtube.com/watch?v=UDbdChCXIKw)
 - [How YOU can Enable GitHub Codespaces #SHORTS](https://www.youtube.com/watch?v=LluZkqPrN5I)
 - [GitHub Codespaces GA: Cloud Development Environment for Node.js, Docker, .NET Core, Python, etc](https://www.youtube.com/watch?v=Car0QZ_YbxQ)
 - [How to solve the "No usable version of the libssl was found" in GitHub Actions and Azure Pipelines](https://www.youtube.com/watch?v=EbEzgxLi8YY)
-- [Remote Work - Expectation vs Reality #SHORTS](https://www.youtube.com/watch?v=yONYlYArIvI)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
