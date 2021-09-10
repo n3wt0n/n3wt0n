@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature Flags Simply Explained 🎥[video]](https://dev.to/n3wt0n/feature-flags-simply-explained-video-11n1)
 - [GitHub Copilot on Codespaces on an iPad + GitHub Codespaces Q&A](https://dev.to/n3wt0n/github-copilot-on-codespaces-on-an-ipad-github-codespaces-q-a-2n00)
 - [GitHub Web Editor: FREE VSCode in the browser](https://dev.to/github/vscode-in-the-browser-for-free-github-web-editor-k4h)
 - [GitHub Codespaces GA: Any Good? - Reviewed and Tested](https://dev.to/github/github-codespaces-ga-any-good-reviewed-and-tested-3e62)
 - [SOLVED: "No usable version of the libssl was found"](https://dev.to/n3wt0n/no-usable-version-of-the-libssl-was-found-solved-2ffa)
-- [3 Tips to be SUCCESSFUL at DevOps](https://dev.to/n3wt0n/3-tips-to-be-successful-at-devops-5f8h)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
