@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protect your Repository from Azure Pipelines!](https://dev.to/n3wt0n/protect-your-repository-from-azure-pipelines-3c0f)
 - [Don't make these DevOps MISTAKES! We made them for you so you don't have to](https://dev.to/n3wt0n/don-t-make-this-devops-mistakes-we-made-them-for-you-2ih7)
 - [Feature Flags Simply Explained 🎥[video]](https://dev.to/n3wt0n/feature-flags-simply-explained-video-11n1)
 - [GitHub Copilot on Codespaces on an iPad + GitHub Codespaces Q&A](https://dev.to/n3wt0n/github-copilot-on-codespaces-on-an-ipad-github-codespaces-q-a-2n00)
 - [GitHub Web Editor: FREE VSCode in the browser](https://dev.to/github/vscode-in-the-browser-for-free-github-web-editor-k4h)
-- [GitHub Codespaces GA: Any Good? - Reviewed and Tested](https://dev.to/github/github-codespaces-ga-any-good-reviewed-and-tested-3e62)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
