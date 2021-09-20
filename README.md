@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create Reusable GitHub Actions Templates with Composite Actions v2](https://www.youtube.com/watch?v=4lH_7b5lmjo)
 - [How to PROTECT Azure Repository From Azure Pipelines Access](https://www.youtube.com/watch?v=a7k-mAjTbas)
 - [How to AVOID DevOps Mistakes | We Made These DevOps Mistakes So You Don't Have To](https://www.youtube.com/watch?v=VaEFosTY7FU)
 - [What Are Feature Flags? Explained in 6 Minutes (Feature Toggles)](https://www.youtube.com/watch?v=c8KgKTgyFUE)
 - [Welcome GitHub Free Web-based Code Editor: it is AWESOME!](https://www.youtube.com/watch?v=UDbdChCXIKw)
-- [How YOU can Enable GitHub Codespaces #SHORTS](https://www.youtube.com/watch?v=LluZkqPrN5I)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
