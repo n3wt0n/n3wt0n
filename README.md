@@ -73,7 +73,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Create GitHub Actions Templates -New Composite Actions Feature](https://dev.to/github/create-github-actions-templates-new-composite-actions-feature-4ibk)
+- [Create GitHub Actions Templates - New Composite Actions Feature Explored](https://dev.to/github/create-github-actions-templates-new-composite-actions-feature-4ibk)
 - [Multiple services in a docker container? Let's discuss!](https://dev.to/n3wt0n/multiple-services-in-a-docker-container-let-s-discuss-81e)
 - [Protect your Repository from Azure Pipelines!](https://dev.to/n3wt0n/protect-your-repository-from-azure-pipelines-3c0f)
 - [Don't make these DevOps MISTAKES! We made them for you so you don't have to](https://dev.to/n3wt0n/don-t-make-this-devops-mistakes-we-made-them-for-you-2ih7)
