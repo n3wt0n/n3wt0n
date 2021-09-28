@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/CoderDave-org/CoderDave-subscribers/issues/1) in [CoderDave-org/CoderDave-subscribers](https://github.com/CoderDave-org/CoderDave-subscribers)
+1. 🗣 Commented on [#15](https://github.com/cschleiden/replace-tokens/issues/15) in [cschleiden/replace-tokens](https://github.com/cschleiden/replace-tokens)
 <!--END_SECTION:activity-->
 
 </details>
