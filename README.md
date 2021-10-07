@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/n3wt0n/SmartHotel360-Website/pull/13) in [n3wt0n/SmartHotel360-Website](https://github.com/n3wt0n/SmartHotel360-Website)
+1. 🎉 Merged PR [#13](https://github.com/n3wt0n/SmartHotel360-Website/pull/13) in [n3wt0n/SmartHotel360-Website](https://github.com/n3wt0n/SmartHotel360-Website)
 <!--END_SECTION:activity-->
 
 </details>
