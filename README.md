@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AVOID Problems with Kubernetes: Best Practices Enforcement with Datree](https://dev.to/n3wt0n/avoid-problems-with-kubernetes-best-practices-enforcement-with-datree-4p2f)
 - [Multiple Repositories in a Single Azure Pipeline](https://dev.to/n3wt0n/multiple-repositories-in-a-single-azure-pipeline-2oe2)
 - [How GitHub Uses Codespaces to Build GitHub](https://dev.to/n3wt0n/how-github-uses-codespaces-to-build-github-17eb)
 - [No YAML Needed! Create GitHub Actions Workflows from VS and CLI](https://dev.to/n3wt0n/no-yaml-needed-create-github-actions-workflows-from-vs-and-cli-50kp)
 - [Introduction to GitHub Packages and GitHub Container Registry (GHCR)](https://dev.to/n3wt0n/introduction-to-github-packages-and-github-container-registry-ghcr-iib)
-- [Change Job Queue Priority in Azure Pipelines](https://dev.to/n3wt0n/change-job-queue-priority-in-azure-pipelines-42oo)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
