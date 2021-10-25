@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GitHub Actions Reusable Workflows: Templates on Steroids](https://www.youtube.com/watch?v=lRypYtmbKMs)
 - [AVOID Problems In Production With Kubernetes: Datree Best Practices Validation](https://www.youtube.com/watch?v=aM7EVflmEt4)
 - [Trigger Azure Pipelines From Multiple Repositories | Azure DevOps Pipeline](https://www.youtube.com/watch?v=6CXaEDEZZRM)
 - [How GitHub Uses Codespaces to Build GitHub (ft. Mike McQuaid)](https://www.youtube.com/watch?v=xrZo4SHOdg0)
 - [How to Create GitHub Actions Workflows Without Writing YAML (for donet apps)](https://www.youtube.com/watch?v=N2ELIqLWz0k)
-- [Introduction to GitHub Packages and GitHub Container Registry (GHCR)](https://www.youtube.com/watch?v=p9ismkYDxWQ)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
