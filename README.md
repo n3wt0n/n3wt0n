@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoid Duplication! GitHub Actions Reusable Workflows](https://dev.to/n3wt0n/avoid-duplication-github-actions-reusable-workflows-3ae8)
 - [Kubernetes Best Practices Validation in Azure Pipelines with Datree](https://dev.to/n3wt0n/kubernetes-best-practices-validation-in-azure-pipelines-with-datree-33i3)
 - [Validate Kubernetes Manifests in GitHub Actions with Datree](https://dev.to/n3wt0n/validate-kubernetes-manifests-in-github-actions-with-datree-1190)
 - [AVOID Problems with Kubernetes: Best Practices Enforcement with Datree](https://dev.to/n3wt0n/avoid-problems-with-kubernetes-best-practices-enforcement-with-datree-4p2f)
 - [Multiple Repositories in a Single Azure Pipeline](https://dev.to/n3wt0n/multiple-repositories-in-a-single-azure-pipeline-2oe2)
-- [How GitHub Uses Codespaces to Build GitHub](https://dev.to/n3wt0n/how-github-uses-codespaces-to-build-github-17eb)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
