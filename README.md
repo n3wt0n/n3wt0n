@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/CoderDave-org/CICD-Reviews/issues/1) in [CoderDave-org/CICD-Reviews](https://github.com/CoderDave-org/CICD-Reviews)
+1. 🗣 Commented on [#3](https://github.com/n3wt0n/AzurePipelinesDecoratorSamples/issues/3) in [n3wt0n/AzurePipelinesDecoratorSamples](https://github.com/n3wt0n/AzurePipelinesDecoratorSamples)
 <!--END_SECTION:activity-->
 
 </details>
