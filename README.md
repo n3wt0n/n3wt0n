@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ask Me Anything: LIVE Q&amp;A about GitHub, DevOps, Azure DevOps](https://www.youtube.com/watch?v=YLjSu8tD4gI)
 - [DevSecOps Explained: Why is it important and how to do it properly](https://www.youtube.com/watch?v=KaoPQLyWq_g)
 - [Completely Redesigned! The NEW GitHub Releases Overview](https://www.youtube.com/watch?v=fZooHk9jrkk)
 - [Get GitHub Actions Approvals with Private Repos and IssueOps | Build LIVE with Me](https://www.youtube.com/watch?v=MDOn9HAS7bQ)
 - [GitHub Universe 2021 Recap | New Features and Announcements in 9 Minutes](https://www.youtube.com/watch?v=HJYpzyUsjKc)
+- [GitHub Actions Reusable Workflows: Templates on Steroids](https://www.youtube.com/watch?v=lRypYtmbKMs)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
