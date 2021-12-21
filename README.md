@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top DevOps News of 2021 RECAP](https://dev.to/n3wt0n/top-devops-news-of-2021-recap-1cbl)
 - [3 Ways to Sync a Forked Repository on GitHub AUTOMATICALLY](https://dev.to/n3wt0n/3-ways-to-sync-a-forked-repository-on-github-automatically-cfd)
 - [Live AMA: DevOps, GitHub and Azure DevOps](https://dev.to/n3wt0n/live-ama-devops-github-and-azure-devops-4j5j)
 - [DevSecOps Done RIGHT! Why and What to Do.](https://dev.to/n3wt0n/devsecops-done-right-why-and-what-to-do-4b2j)
 - [IssueOps: Deployment Approvals in GitHub Actions for Private Repositories](https://dev.to/n3wt0n/deployment-approvals-in-github-actions-for-private-repositories-4hhd)
-- [GitHub Universe 2021 Recap - All You NEED to Know](https://dev.to/n3wt0n/github-universe-2021-recap-all-you-need-to-know-2ji7)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
