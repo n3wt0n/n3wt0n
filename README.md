@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [A Brief Introduction To Azure Boards [with GIVEAWAY]](https://www.youtube.com/watch?v=Ft1JESBVFX8)
 - [Make Your Custom GitHub Actions PRIVATE With This NEW Feature | Actions in Internal Repos](https://www.youtube.com/watch?v=_qS9UbbkGa4)
 - [I QUIT! The reasons why I&#39;m leaving Microsoft and GitHub and What&#39;s NEXT](https://www.youtube.com/watch?v=9W4Wnma5Fes)
 - [Top 10 DevOps News of 2021 RECAP in 15 minutes](https://www.youtube.com/watch?v=2R1nSOBBMuw)
 - [The Easiest Way to Migrate an Azure DevOps Repos to GitHub](https://www.youtube.com/watch?v=NjQhiVvTOds)
-- [3 Ways to Sync a Forked Repository on GitHub AUTOMATICALLY | Automate GitHub](https://www.youtube.com/watch?v=VOakLctEC2Q)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
