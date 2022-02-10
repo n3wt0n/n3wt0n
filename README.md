@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/n3wt0n/AzurePipelinesDecoratorSamples/issues/6) in [n3wt0n/AzurePipelinesDecoratorSamples](https://github.com/n3wt0n/AzurePipelinesDecoratorSamples)
+1. 🗣 Commented on [#42614](https://github.com/MicrosoftDocs/azure-docs/issues/42614) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!--END_SECTION:activity-->
 
 </details>
