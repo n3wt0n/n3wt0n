@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/n3wt0n/vulpy/issues/3) in [n3wt0n/vulpy](https://github.com/n3wt0n/vulpy)
+1. 🗣 Commented on [#1431](https://github.com/sigstore/cosign/issues/1431) in [sigstore/cosign](https://github.com/sigstore/cosign)
 <!--END_SECTION:activity-->
 
 </details>
