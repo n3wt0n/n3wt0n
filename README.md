@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1431](https://github.com/sigstore/cosign/issues/1431) in [sigstore/cosign](https://github.com/sigstore/cosign)
+1. 🗣 Commented on [#1082](https://github.com/atlassian/github-for-jira/issues/1082) in [atlassian/github-for-jira](https://github.com/atlassian/github-for-jira)
 <!--END_SECTION:activity-->
 
 </details>
