@@ -59,7 +59,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Sign Your Container Images with GitHub Actions and GitHub Container Registry &lpar;Complete How To&rpar;](https://www.youtube.com/watch?v=OqZlKbTRWOY)
+- [Sign Your Container Images with Cosign,  GitHub Actions and GitHub Container Registry &lpar;How To&rpar;](https://www.youtube.com/watch?v=OqZlKbTRWOY)
 - [Azure Boards: a Brief Introduction](https://www.youtube.com/watch?v=Ft1JESBVFX8)
 - [Make Your Custom GitHub Actions PRIVATE With This NEW Feature | Actions in Internal Repos](https://www.youtube.com/watch?v=_qS9UbbkGa4)
 - [I QUIT! The reasons why I&#39;m leaving Microsoft and GitHub and What&#39;s NEXT](https://www.youtube.com/watch?v=9W4Wnma5Fes)
