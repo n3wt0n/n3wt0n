@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub NEW File Tree View in Pull Requests: a HUGE Productivity Boost 🥳🥳🥳](https://dev.to/n3wt0n/github-new-file-tree-view-in-pull-requests-a-huge-productivity-boost-38e3)
 - [Sign Your Container Images with Cosign, GitHub Actions and GitHub Container Registry](https://dev.to/n3wt0n/sign-your-container-images-with-cosign-github-actions-and-github-container-registry-3mni)
 - [A Brief Introduction to Azure Boards](https://dev.to/n3wt0n/giveaway-a-brief-introduction-to-azure-boards-16ai)
 - [FINALLY! Custom GitHub Actions in Internal Repos](https://dev.to/n3wt0n/finally-custom-github-actions-in-internal-repos-4l91)
 - [Top DevOps News of 2021 RECAP](https://dev.to/n3wt0n/top-devops-news-of-2021-recap-1cbl)
-- [3 Ways to Sync a Forked Repository on GitHub AUTOMATICALLY](https://dev.to/n3wt0n/3-ways-to-sync-a-forked-repository-on-github-automatically-cfd)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
