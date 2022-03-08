@@ -59,7 +59,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I&#39;ve Tried Civo Kubernetes Cloud So You Don&#39;t Have To - Is Civo Good?](https://www.youtube.com/watch?v=N6IEysLIx6c)
+- [Is Civo Kubernetes Good or Bad? I&#39;ve Tried Civo Cloud So You Don&#39;t Have To](https://www.youtube.com/watch?v=N6IEysLIx6c)
 - [Enable the File Tree View in GitHub Pull Request](https://www.youtube.com/watch?v=OfICx2_oVo0)
 - [Sign Your Container Images with Cosign, GitHub Actions and GitHub Container Registry &lpar;How To&rpar;](https://www.youtube.com/watch?v=OqZlKbTRWOY)
 - [Azure Boards: a Brief Introduction](https://www.youtube.com/watch?v=Ft1JESBVFX8)
