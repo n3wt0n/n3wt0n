@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/n3wt0n/HKOSCon2020/issues/29) in [n3wt0n/HKOSCon2020](https://github.com/n3wt0n/HKOSCon2020)
+1. ❗️ Closed issue [#2](https://github.com/n3wt0n/BugGuardian.MVC/issues/2) in [n3wt0n/BugGuardian.MVC](https://github.com/n3wt0n/BugGuardian.MVC)
 <!--END_SECTION:activity-->
 
 </details>
