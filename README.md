@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Composite Actions VS Reusable Workflows: What Are The Differences?](https://www.youtube.com/watch?v=xa9gYSCf8q0)
 - [DevOps Lead Takes on DevOps, DevSecOps, Culture, Processes, and Mindset - HK Magazine Interview](https://www.youtube.com/watch?v=9hNDCvhTODI)
 - [Merging Pull Requests in GitHub Has Never Been EASIER: Mergify Review](https://www.youtube.com/watch?v=jb9wnpqNzEo)
 - [Is Civo Kubernetes Good or Bad? I&#39;ve Tried Civo Cloud So You Don&#39;t Have To](https://www.youtube.com/watch?v=N6IEysLIx6c)
 - [Enable the File Tree View in GitHub Pull Request](https://www.youtube.com/watch?v=OfICx2_oVo0)
-- [Sign Your Container Images with Cosign, GitHub Actions and GitHub Container Registry &lpar;How To&rpar;](https://www.youtube.com/watch?v=OqZlKbTRWOY)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
