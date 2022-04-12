@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Composite Actions vs Reusable Workflows: what is the difference? [GitHub Actions]](https://dev.to/n3wt0n/composite-actions-vs-reusable-workflows-what-is-the-difference-github-actions-11kd)
 - [DevOps Lead Takes on DevOps, DevSecOps, Culture, Processes, and Mindset](https://dev.to/n3wt0n/devops-lead-takes-on-devops-devsecops-culture-processes-and-mindset-2af2)
 - [I Got Awarded as Microsoft MVP 🥳🥳🥳](https://dev.to/n3wt0n/i-got-awarded-as-microsoft-mvp-8e1)
 - [Merging Pull Requests in GitHub Has Never Been EASIER Thanks to Mergify](https://dev.to/n3wt0n/merging-pull-requests-in-github-has-never-been-easier-thanks-to-mergify-2lil)
 - [Civo Kubernetes Cloud to the Test: Good or Bad? 🤔](https://dev.to/n3wt0n/civo-kubernetes-cloud-good-or-bad-2ja6)
-- [GitHub NEW File Tree View in Pull Requests: a HUGE Productivity Boost 🥳🥳🥳](https://dev.to/n3wt0n/github-new-file-tree-view-in-pull-requests-a-huge-productivity-boost-38e3)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
