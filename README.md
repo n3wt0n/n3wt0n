@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No More VPN! Securely Connect to Private Resources with Twingate [Step-by-Step]](https://dev.to/n3wt0n/no-more-vpn-securely-connect-to-private-resources-with-twingate-step-by-step-l8a)
 - [I Store My Infra-as-Code This Way, You SHOULD Too.](https://dev.to/n3wt0n/i-store-my-infra-as-code-this-way-you-should-too-1pa3)
 - [Composite Actions vs Reusable Workflows: what is the difference? [GitHub Actions]](https://dev.to/n3wt0n/composite-actions-vs-reusable-workflows-what-is-the-difference-github-actions-11kd)
 - [DevOps Lead Takes on DevOps, DevSecOps, Culture, Processes, and Mindset](https://dev.to/n3wt0n/devops-lead-takes-on-devops-devsecops-culture-processes-and-mindset-2af2)
 - [I Got Awarded as Microsoft MVP 🥳🥳🥳](https://dev.to/n3wt0n/i-got-awarded-as-microsoft-mvp-8e1)
-- [Merging Pull Requests in GitHub Has Never Been EASIER Thanks to Mergify](https://dev.to/n3wt0n/merging-pull-requests-in-github-has-never-been-easier-thanks-to-mergify-2lil)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
