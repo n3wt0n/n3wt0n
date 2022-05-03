@@ -59,7 +59,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [You Don’t Need a VPN. SECURE Access to Private Resources with Twingate &lpar;Zero Trust Networking&rpar;](https://www.youtube.com/watch?v=JsQ6xNSOVqk)
+- [You Don’t Need a VPN. SECURE Access to Private Resources with Twingate &lpar;Zero Trust Network Access&rpar;](https://www.youtube.com/watch?v=JsQ6xNSOVqk)
 - [How You Should Store Your Infrastructure as Code &lpar;IaC, Terraform, ARM, etc&rpar;](https://www.youtube.com/watch?v=Ub76JGoXzKI)
 - [Composite Actions VS Reusable Workflows: What Are The Differences?](https://www.youtube.com/watch?v=xa9gYSCf8q0)
 - [DevOps Lead Talks About DevOps, DevSecOps, Culture, Processes, and Mindset - HK Magazine Interview](https://www.youtube.com/watch?v=9hNDCvhTODI)
