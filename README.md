@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/n3wt0n/AzurePipelinesDecoratorSamples/issues/1) in [n3wt0n/AzurePipelinesDecoratorSamples](https://github.com/n3wt0n/AzurePipelinesDecoratorSamples)
+1. 🗣 Commented on [#948](https://github.com/Azure/application-gateway-kubernetes-ingress/issues/948) in [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress)
 <!--END_SECTION:activity-->
 
 </details>
