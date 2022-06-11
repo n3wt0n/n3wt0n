@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/n3wt0n/Deploy-to-AKS/issues/3) in [n3wt0n/Deploy-to-AKS](https://github.com/n3wt0n/Deploy-to-AKS)
+1. 🎉 Merged PR [#2](https://github.com/n3wt0n/HKOSCon2022/pull/2) in [n3wt0n/HKOSCon2022](https://github.com/n3wt0n/HKOSCon2022)
 <!--END_SECTION:activity-->
 
 </details>
