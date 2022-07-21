@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/n3wt0n/HKOSCon2022/pull/3) in [n3wt0n/HKOSCon2022](https://github.com/n3wt0n/HKOSCon2022)
+1. 🎉 Merged PR [#1](https://github.com/playstudios/action-argocd-sync-app/pull/1) in [playstudios/action-argocd-sync-app](https://github.com/playstudios/action-argocd-sync-app)
 <!--END_SECTION:activity-->
 
 </details>
