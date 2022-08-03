@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Ask Me Anything LIVE: DevOps, GitHub, Azure DevOps &lpar;10k Subs Special Q&amp;A&rpar;](https://www.youtube.com/watch?v=44PoWwStc7s)
 - [Secure Your Projects For FREE - Datree and GitHub Advanced Security [HK Open Source Conference 2022]](https://www.youtube.com/watch?v=QPKRd3jNnys)
 - [Connect to EVERYTHING From EVERYWHERE - Teleport Review &lpar;Kubernetes, Servers, Databases&rpar;](https://www.youtube.com/watch?v=062Rv1eWKEY)
 - [Microsoft Build 2022: Top DevOps Announcements Recap](https://www.youtube.com/watch?v=Lq0BPwa69C8)
 - [Azure Artifacts vs Build Artifacts vs Pipeline Artifacts: Difference EXPLAINED! [Azure DevOps]](https://www.youtube.com/watch?v=WWCmEUCt3Cc)
+- [You Don’t Need a VPN. SECURE Access to Private Resources with Twingate &lpar;Zero Trust Network Access&rpar;](https://www.youtube.com/watch?v=JsQ6xNSOVqk)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
