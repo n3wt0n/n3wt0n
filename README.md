@@ -5,9 +5,9 @@
 [![Discord](https://img.shields.io/discord/819034800773267467?label=JOIN%20THE%20COMMUNITY&logo=discord&style=for-the-badge)][discord]
 [![Sponsor](https://img.shields.io/badge/Sponsor%20n3wt0n-%F0%9F%92%96-pink?style=for-the-badge)][githubsponsor]
 
-## I'm a DevOps Architect, a Software Engineer, a Speaker, and a YouTuber!
+## I'm a DevOps Lead, a Software Engineer, a Speaker, and a YouTuber!
 
-I have been working with .NET since its first introduction. Currently I work as __DevOps Architect at Microsoft + Github__, I'm the founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I used to be a Microsoft MVP in 2015, 2016 and 2017.
+I have been working with .NET since its first introduction. Currently I am the __DevOps and Infra Lead__ for PlayStudios (previously I worke as DevOps Architect at Microsoft + Github), I'm the founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I used to be a Microsoft MVP in 2015, 2016 and 2017.
 
 I publish a lot of __technical videos about DevOps, GitHub and Azure DevOps__ on my [YouTube Channel: CoderDave](https://youtube.com/CoderDave)
 
