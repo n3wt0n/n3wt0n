@@ -7,7 +7,7 @@
 
 ## I'm a DevOps Lead, a Software Engineer, a Speaker, and a YouTuber!
 
-I have been working with .NET since its first introduction. Currently I am the __DevOps and Infra Lead__ for PlayStudios (previously I worke as DevOps Architect at Microsoft + Github), I'm the founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I used to be a Microsoft MVP in 2015, 2016 and 2017.
+I have been working with .NET since its first introduction. Currently I am the __DevOps and Infra Lead__ for PlayStudios (previously I worke as DevOps Architect at Microsoft + Github), I'm the founder and Community Leader of [Hong Kong Microsoft Community](http://www.hkmsc.org) and member of [DotNetToscana](https://dotnettoscana.org). I'm speaker at technical events and I write articles for magazines. I have been awarded as Microsoft MVP in 2015, 2016, 2017, and 2022.
 
 I publish a lot of __technical videos about DevOps, GitHub and Azure DevOps__ on my [YouTube Channel: CoderDave](https://youtube.com/CoderDave)
 
