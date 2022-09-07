@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Centralized Control Center for Azure DevOps!](https://dev.to/n3wt0n/a-centralized-control-center-for-azure-devops-dbk)
 - [Create a New GitHub Repo in 1 CLICK from VSCode](https://dev.to/n3wt0n/create-a-new-github-repo-in-1-click-vscode-29ae)
 - [Ask Me Anything: DevOps, GitHub and Azure DevOps &lpar;10k subs special LIVE&rpar;](https://dev.to/n3wt0n/ask-me-anything-devops-github-and-azure-devops-10k-subs-special-live-lpe)
 - [Protect and Access you Kubernetes, Servers, Applications and Databases with Teleport](https://dev.to/n3wt0n/protect-and-access-you-kubernetes-servers-applications-and-databases-with-teleport-18oc)
 - [Top DevOps Announcement from Microsoft Build 2022](https://dev.to/n3wt0n/top-devops-announcement-from-ms-build-2022-5fcp)
-- [Azure Artifacts vs Build Artifacts vs Pipeline Artifacts: Difference EXPLAINED!](https://dev.to/n3wt0n/azure-artifacts-vs-build-artifacts-vs-pipeline-artifacts-difference-explained-1k24)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
