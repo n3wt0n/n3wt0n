@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3167](https://github.com/Azure/AKS/issues/3167) in [Azure/AKS](https://github.com/Azure/AKS)
+1. 🗣 Commented on [#3180](https://github.com/Azure/AKS/issues/3180) in [Azure/AKS](https://github.com/Azure/AKS)
 <!--END_SECTION:activity-->
 
 </details>
