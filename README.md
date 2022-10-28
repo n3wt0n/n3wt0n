@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/n3wt0n/AzureWebAppSSLManager/issues/47) in [n3wt0n/AzureWebAppSSLManager](https://github.com/n3wt0n/AzureWebAppSSLManager)
+1. 💪 Opened PR [#5](https://github.com/n3wt0n/vulpy/pull/5) in [n3wt0n/vulpy](https://github.com/n3wt0n/vulpy)
 <!--END_SECTION:activity-->
 
 </details>
