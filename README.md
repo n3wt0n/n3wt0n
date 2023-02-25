@@ -59,7 +59,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I Let AI Do DevOps - This Is What Happened &lpar;feat ChatGPT and DALL-E&rpar;](https://www.youtube.com/watch?v=oic6yQL8myc)
+- [ChatGPT and DevOps - This Changes Everything &lpar;feat DALL-E&rpar;](https://www.youtube.com/watch?v=oic6yQL8myc)
 - [A Centralized Control Center for Azure DevOps! ft. Vinicius Moura](https://www.youtube.com/watch?v=VkoZLw56bhw)
 - [Your code to GitHub in ONE Click with Visual Studio Code &lpar;VSCode Tutorial&rpar;](https://www.youtube.com/watch?v=shP-3p-2m6g)
 - [Ask Me Anything LIVE: DevOps, GitHub, Azure DevOps &lpar;10k Subs Special Q&amp;A&rpar;](https://www.youtube.com/watch?v=44PoWwStc7s)
