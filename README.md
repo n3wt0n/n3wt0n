@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/n3wt0n/ActionsTest/issues/3) in [n3wt0n/ActionsTest](https://github.com/n3wt0n/ActionsTest)
+1. 🗣 Commented on [#3142](https://github.com/prometheus-community/helm-charts/issues/3142) in [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
 <!--END_SECTION:activity-->
 
 </details>
