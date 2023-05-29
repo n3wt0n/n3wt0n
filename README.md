@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Microsoft Build 2023 DevOps Recap: All You Need To Know](https://www.youtube.com/watch?v=7eUU1i8TRjs)
 - [5 Top Reasons to Use GitHub Actions for Your Next Project](https://www.youtube.com/watch?v=vNb-NAogQUc)
 - [ChatGPT and DevOps - This Changes Everything &lpar;feat DALL-E&rpar;](https://www.youtube.com/watch?v=oic6yQL8myc)
 - [A Centralized Control Center for Azure DevOps! ft. Vinicius Moura](https://www.youtube.com/watch?v=VkoZLw56bhw)
 - [Your code to GitHub in ONE Click with Visual Studio Code &lpar;VSCode Tutorial&rpar;](https://www.youtube.com/watch?v=shP-3p-2m6g)
-- [Ask Me Anything LIVE: DevOps, GitHub, Azure DevOps &lpar;10k Subs Special Q&amp;A&rpar;](https://www.youtube.com/watch?v=44PoWwStc7s)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
