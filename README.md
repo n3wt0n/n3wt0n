@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/playstudios/action-release-action/pull/32) in [playstudios/action-release-action](https://github.com/playstudios/action-release-action)
+1. 🚀 Published release [v1.6.1](https://github.com/v1.6.1) in [playstudios/action-release-action](https://github.com/playstudios/action-release-action)
 <!--END_SECTION:activity-->
 
 </details>
