@@ -73,11 +73,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Boards? Here&#39;s WHY!](https://dev.to/n3wt0n/azure-boards-heres-why-ik0)
 - [GitHub Larger Runners EXPLAINED! - No more limits](https://dev.to/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
 - [5 Top Reasons to Use GitHub Actions for Your Next Project](https://dev.to/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
 - [I Let A.I. Do DevOps - This Is What Happened &lpar;feat ChatGPT and DALL-E&rpar;](https://dev.to/n3wt0n/i-let-ai-do-devops-this-is-what-happened-feat-chatgpt-and-dall-e-47mj)
 - [A Centralized Control Center for Azure DevOps!](https://dev.to/n3wt0n/a-centralized-control-center-for-azure-devops-dbk)
-- [Create a New GitHub Repo in 1 CLICK from VSCode](https://dev.to/n3wt0n/create-a-new-github-repo-in-1-click-vscode-29ae)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
