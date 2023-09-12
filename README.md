@@ -59,11 +59,11 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Composite Actions VS Reusable Workflows in GitHub Actions [2023 Update]](https://www.youtube.com/watch?v=zc19mR3O4a4)
 - [11 Reasons to Start Using Azure Boards in 2023](https://www.youtube.com/watch?v=T3_UNAA8onw)
 - [GitHub Actions Larger Runners: Why and How to Use Them](https://www.youtube.com/watch?v=lTAkB7P1qV0)
 - [Microsoft Build 2023 DevOps Recap: All You Need To Know](https://www.youtube.com/watch?v=7eUU1i8TRjs)
 - [5 Top Reasons to Use GitHub Actions for Your Next Project](https://www.youtube.com/watch?v=vNb-NAogQUc)
-- [ChatGPT and DevOps - This Changes Everything &lpar;feat DALL-E&rpar;](https://www.youtube.com/watch?v=oic6yQL8myc)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...][youtube]
