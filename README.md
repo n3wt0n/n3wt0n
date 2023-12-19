@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#397](https://github.com/kedacore/charts/issues/397#issuecomment-1844197304) in [kedacore/charts](https://github.com/kedacore/charts)
+1. 🗣 Commented on [#113](https://github.com/traefik/traefikee-helm-chart/issues/113#issuecomment-1862133737) in [traefik/traefikee-helm-chart](https://github.com/traefik/traefikee-helm-chart)
 <!--END_SECTION:activity-->
 
 </details>
