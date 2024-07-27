@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1436](https://github.com/kedacore/keda-docs/pull/1436) in [kedacore/keda-docs](https://github.com/kedacore/keda-docs)
+1. 💪 Opened PR [#19](https://github.com/n3wt0n/openhack-devops-team/pull/19) in [n3wt0n/openhack-devops-team](https://github.com/n3wt0n/openhack-devops-team)
 <!--END_SECTION:activity-->
 
 </details>
