@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/n3wt0n/openhack-devops-team/pull/21) in [n3wt0n/openhack-devops-team](https://github.com/n3wt0n/openhack-devops-team)
+1. 💪 Opened PR [#22](https://github.com/n3wt0n/openhack-devops-team/pull/22) in [n3wt0n/openhack-devops-team](https://github.com/n3wt0n/openhack-devops-team)
 <!--END_SECTION:activity-->
 
 </details>
