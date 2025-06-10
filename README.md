@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#397](https://github.com/kedacore/charts/issues/397#issuecomment-2871739007) in [kedacore/charts](https://github.com/kedacore/charts)
+1. 💪 Opened PR [#29](https://github.com/n3wt0n/vulpy/pull/29) in [n3wt0n/vulpy](https://github.com/n3wt0n/vulpy)
 <!--END_SECTION:activity-->
 
 </details>
