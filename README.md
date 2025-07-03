@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/n3wt0n/PingdomExporter/pull/1) in [n3wt0n/PingdomExporter](https://github.com/n3wt0n/PingdomExporter)
+1. 🔒 Closed issue [#2](https://github.com/n3wt0n/PingdomExporter/issues/2) in [n3wt0n/PingdomExporter](https://github.com/n3wt0n/PingdomExporter)
 <!--END_SECTION:activity-->
 
 </details>
