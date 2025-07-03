@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/mindee/terraform-provider-uptimerobot/issues/11#issuecomment-2984267021) in [mindee/terraform-provider-uptimerobot](https://github.com/mindee/terraform-provider-uptimerobot)
+1. 💪 Opened PR [#1](https://github.com/n3wt0n/PingdomExporter/pull/1) in [n3wt0n/PingdomExporter](https://github.com/n3wt0n/PingdomExporter)
 <!--END_SECTION:activity-->
 
 </details>
