@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/uptimerobot/terraform-provider-uptimerobot/issues/33) in [uptimerobot/terraform-provider-uptimerobot](https://github.com/uptimerobot/terraform-provider-uptimerobot)
+1. 💪 Opened PR [#27](https://github.com/n3wt0n/openhack-devops-team/pull/27) in [n3wt0n/openhack-devops-team](https://github.com/n3wt0n/openhack-devops-team)
 <!--END_SECTION:activity-->
 
 </details>
