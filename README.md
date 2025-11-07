@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/uptimerobot/terraform-provider-uptimerobot/issues/44#issuecomment-3195512019) in [uptimerobot/terraform-provider-uptimerobot](https://github.com/uptimerobot/terraform-provider-uptimerobot)
+1. ❗ Opened issue [#3010](https://github.com/microsoft/ApplicationInsights-dotnet/issues/3010) in [microsoft/ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet)
 <!--END_SECTION:activity-->
 
 </details>
