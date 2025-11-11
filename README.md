@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3010](https://github.com/microsoft/ApplicationInsights-dotnet/issues/3010) in [microsoft/ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet)
+1. 💪 Opened PR [#28](undefined) in [n3wt0n/openhack-devops-team](https://github.com/n3wt0n/openhack-devops-team)
 <!--END_SECTION:activity-->
 
 </details>
