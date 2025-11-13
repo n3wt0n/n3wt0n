@@ -92,7 +92,7 @@ I also like to make non-technical cinematic-looking videos, take a look at my [p
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](undefined) in [n3wt0n/openhack-devops-team](https://github.com/n3wt0n/openhack-devops-team)
+1. 🗣 Commented on [#3105](https://github.com/newrelic/newrelic-dotnet-agent/issues/3105#issuecomment-3525762901) in [newrelic/newrelic-dotnet-agent](https://github.com/newrelic/newrelic-dotnet-agent)
 <!--END_SECTION:activity-->
 
 </details>
